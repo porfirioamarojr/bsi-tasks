@@ -14,9 +14,10 @@ O teste de unidade é o teste da menor parte testável de um sistema para garant
 Para o projeto foi definido que será utilizado a lingugem Python juntamente com o framework Django e como banco de dados da aplicação o postgreSQL, se possível será utilizado uma imagem Docker do PostgreSQL, somente se houver tempo será adicionadado um framework processador de css no nosso caso Bulma.
 
 ###### 10.c
-
+O pytest é um framework de testes de unidade extremamente popular em Python devido à sua simplicidade e poder. Ele permite que os desenvolvedores escrevam testes de forma concisa e expressiva, oferecendo recursos avançados, como detecção automática de testes e plugins personalizáveis.
 
 ###### 10.d
+
 
 ###### 10.e
 
