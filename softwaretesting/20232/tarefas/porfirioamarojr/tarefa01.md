@@ -17,7 +17,7 @@ Para o projeto foi definido que será utilizado a lingugem Python juntamente com
 O pytest é um framework de testes de unidade extremamente popular em Python devido à sua simplicidade e poder. Ele permite que os desenvolvedores escrevam testes de forma concisa e expressiva, oferecendo recursos avançados, como detecção automática de testes e plugins personalizáveis.
 
 ###### 10.d
-
+Eu utilizo o vscode e nele é possível instalar vários plugins.
 
 ###### 10.e
 
