@@ -20,5 +20,6 @@ O pytest é um framework de testes de unidade extremamente popular em Python dev
 Eu utilizo o vscode e nele é possível instalar vários plugins.
 
 ###### 10.e
+https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Django/Tutorial_local_library_website
 
 ###### 10.f
