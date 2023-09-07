@@ -14,21 +14,23 @@ O teste de unidade é o teste da menor parte testável de um sistema para garant
 Para o projeto foi definido que será utilizado a lingugem Python juntamente com o framework Django e como banco de dados da aplicação o postgreSQL, se possível será utilizado uma imagem Docker do PostgreSQL, somente se houver tempo será adicionadado um framework processador de css no nosso caso Bulma.
 
 ###### c)
-O pytest é um framework de testes de unidade extremamente popular em Python devido à sua simplicidade e poder. Ele permite que os desenvolvedores escrevam testes de forma concisa e expressiva, oferecendo recursos avançados, como detecção automática de testes e plugins personalizáveis.
+Primeiramente foi definido que será utilizado o pytest(poderá ser mudado pelo unittest) que é um framework de testes de unidade extremamente popular em Python devido à sua simplicidade e poder. Ele permite que os desenvolvedores escrevam testes de forma concisa e expressiva, oferecendo recursos avançados, como detecção automática de testes e plugins personalizáveis. 
 
 ###### d)
+O VsCode é um editor de texto que permite diversas extensões sejam adicionadas com por exemplo a ferramenta de Debug para a linguagem escolhida, que no caso do projeto em questão é o Debug do python, para isso é necessário instalar a extensão oficial do python, para um aproveitamento melhor de Debug podemos criar uma configuração personalizada para o Django seguindo este (tutorial)[https://code.visualstudio.com/docs/python/tutorial-django#_create-a-debugger-launch-profile].
 
 ###### e)
+Ao utilizar este (tutorial)[https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Django/Tutorial_local_library_website] é possível construir um CRUD completo em Django, básciamente você vai desde o esqueleto da aplicação até a parte de testes, no tutorial você verá o uso de models, criará uma home page, verá uma listagem genérica, verá conteúdo também sobre sessões e autenticações, e além disso trabalhará com formulários.
 
 ###### f)
-No VsCode exites diversas extensões que adicionan a ferramenta de Debug para a linguagem escolhida, para utiliza o Debug do python é necessário instalar o plugin do python.
+
 
 
 *** Sessão 11 ***
 ###### a)
+Criação do repositório feita,
 
 ###### b)
-Ao utilizar este tutorial é possível construir um CRUD completo
-https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Django/Tutorial_local_library_website
 
-###### 10.f
+
+###### c)
